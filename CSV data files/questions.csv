@@ -1,0 +1,109 @@
+﻿category,question id,question,answer,
+about pitt cs,1,How late is the department open?,,"The CS department is open:
+Monday: 9AM to 5PM
+Tuesday: 9AM to 5PM
+Wednesday: 9AM to 5PM
+Thursday: 9AM to 5PM
+Friday: 9AM to 5PM
+Saturday: Closed
+Sunday: Closed"
+about pitt cs,2,Where is the CS department located?,,"Information Science Building, Fifth Floor
+135 North Bellefield Avenue
+Pittsburgh, PA 15260"
+about pitt cs,3,Tell me something about the CS department,,I am glad you are interested in the CS department! Here is a web page about us: https://www.cs.pitt.edu. You can also check out this web page to know more about Pitt CS department history: https://www.cs.pitt.edu/about/history
+campus life,4,What are upcoming events?,,Click the link https://calendar.pitt.edu/department/department_of_computer_science to find out more about our events or contact a faculty
+campus life,5,Tell me any news about the department?,,"Here is a list of latest news, click https://www.cs.pitt.edu/news to find out more!"
+campus life,6,What student clubs do you have?,,"In the CS department, there are multiple student clubs. Here is the list of students clubs we have: https://www.cs.pitt.edu/community/student-clubs"
+undergraduate admissions,7,How and when will I be notified if I am admitted?,,You will be notified by SCI via your Pitt email address. Applicants who have completed all admissions requirements by the submission deadline should receive a decision within one to two weeks after the published review period. Those who are completing the admissions requirements during the term they applied should receive a decision within one to two weeks after grades are posted for the term.
+undergraduate admissions,8,How much is the application fee?,,The application fee is $50 for one program.
+undergraduate admissions,9,What if I cannot afford to pay the application fee?,,We expect all applicants to submit the application fee.
+undergraduate admissions,10,Can I pay the application fee by credit card?,,You must pay the fee by credit card. Instructions will be given when you submit your online application.
+undergraduate admissions,11,Are there additional financial aid forms to complete?,,All inquiries regarding financial aid should be directed to the Office of Financial Aid.
+undergraduate admissions,12,"If I applied last year and was not admitted, can I reapply this year?",,"Yes, as long as it is before the application deadline. However, all application materials must be re-uploaded ApplyYourself."
+undergraduate admissions,13,Is it possible to visit the campus and the School of Computing and Information?,,Please contact sciadmit@pitt.edu to schedule a campus visit.
+undergraduate admissions,14,How do I track the status of my application?,,"You may track the status of your completed application through the University's PSMobile site. Once you complete your application, you will receive instructions from the University to set up a Pitt account that you may use to access the PSMobile site. In addition to tracking the status of your application, you can also use the PSMobile site to view your admissions decision and, if admitted, accept your offer."
+undergraduate admissions,15,How will I be notified if I am admitted?,,"You will be notified by SCI via your Pitt email address. Using your Pitt account, you can log into the University's PSMobile site to check the status of your admission decision."
+undergraduate admissions,16,What if my application is not complete by the deadline?,,It is your responsibility to make certain that your application is complete and that the required materials reach us by the above stated deadlines. You may use your user ApplyYourself ID and password to check your submitted application to make certain that it is complete.
+undergraduate admissions,17,"If I am admitted to a program, can I defer admission?",,"Students may defer for up to one year. If you wish to defer, you should contact scireg@pitt.edu."
+undergraduate admissions,18,Do I need to provide letters of recommendation?,,"No, you are not required to provide letters of recommendation but are able to do so if you'd like."
+undergraduate admissions,19,Can I make changes to my online application after it has been submitted?,,"Please email any changes to scireg@pitt.edu. We cannot guarantee that your changes will be considered during the review of your application, but the sooner you provide us with updates, the more likely it is that they will be considered."
+undergraduate admissions,20,"If I applied last year and was not admitted, can I reapply this year?",,"Yes, as long as it is before the application deadline. "
+general admissions,21,How many more credits do I need to graduate?,,"Check these links to see graduation requirements:
+BS in Computer Science: https://www.cs.pitt.edu/current-students/bs-computer-science/degree-requirements 
+Minor in Computer Science: https://www.cs.pitt.edu/current-students/computer-science-minor 
+BS in Computational Biology: https://www.cs.pitt.edu/current-students/bs-computational-biology/degree-requirements 
+BS+MS in Computer Science: https://www.cs.pitt.edu/current-students/bsms-computer-science 
+MS in Computer Science: https://www.cs.pitt.edu/current-students/ms-computer-science/degree-requirements 
+PhD in Computer Science: https://www.cs.pitt.edu/current-students/phd-computer-science/degree-requirements"
+general admissions,22,What degree in CS do you offer? ,,"To learn more about our undergraduate program, please check this link:
+https://www.cs.pitt.edu/current-students"
+graduate admissions,23,How much is the application fee?,,The application fee is $50 for one program.
+graduate admissions,24,What if I cannot afford to pay the application fee?,,We expect all applicants to submit the application fee.
+graduate admissions,25,Can I pay the application fee by credit card?,,You must pay the fee by credit card. Instructions will be given when you submit your online application.
+graduate admissions,26,When is the application deadline for fall admission?,,"Preference is given to those who submit completed applications by the deadlines listed below. Applications may, on a limited basis, be reviewed beyond the indicated deadlines, but no guarantees can be made that an application will be fully reviewed for the requested term of entry if submitted after those deadlines. Applications submitted after the deadlines may therefore be deferred and considered for the next available admit term. Please note: Application submission deadlines in order to be considered for financial assistance from the School are as follows: January 15th for Fall and Summer, June 15th for Spring.
+
+If we do not have enough time to process your application for the term indicated on your application and you are otherwise admissible, we may offer you admission to the next available entry term."
+graduate admissions,27,Are there additional financial aid forms to complete?,,There are no additional financial aid forms to complete unless you are applying for the Commonwealth Scholar Assistantship (you will be required to submit three additional essays to the application system).
+graduate admissions,28,What if all of my supporting documents do not arrive by the deadlines?,,"They may not be considered in the review of your application. It is your responsibility to make certain that your application is complete and that the required materials reach us by the above stated deadlines. You may use your user Apply Yourself ID and password to check your submitted application to make certain that it is complete, However, please do not worry if you check your application status a few days after submitting and your materials are not yet showing in our system - this is normal; it make take us anywhere from 5-10 weeks to process these materials in our system, meaning it may take 5-10 weeks between the time you submit your application and the time your supporting materials will be documented in our system when you log in."
+graduate admissions,29,Can I make changes to my online application after it has been submitted?,,"Please email any new or updated test scores or changes to your resume and/ or statement of intent to sciadmit@pitt.edu.  We cannot guarantee that your changes will be considered during the review of your application, but the sooner you provide us with updates, the more likely it is that they will be considered."
+graduate admissions,30,"If I applied last year and was not admitted, can I reapply this year?",,"Yes, as long as it is before the application deadline. However, all application materials must be re-uploaded online application system. This includes the resume, statement of purpose, test scores, transcripts, letters of recommendation, and the application fee."
+graduate admissions,31,Is it possible to visit the campus and the School of Computing and Information?,,"Please contact sciadmit@pitt.edu to schedule a visit.  Please note, however, that based on the status of the pandemic during the planned visit time, the visit may either be virtual or in-person."
+graduate admissions,32,Will I be considered for financial support if I am admitted?,,"International Master's degree program applicants to all of our programs must provide proof that they can fund themselves.
+Doctoral students, if admitted, are typically awarded financial support in terms of a graduate assistantship. International doctoral admits may use such a graduate assistantship, if awarded, as proof of funding.
+Master's and all other graduate applicants are typically not awarded financial support.
+Special award funds are available on a very limited basis—see financial application section of the application to determine eligibility and apply for these funds."
+graduate admissions,33,How long does it take to complete a master's degree?,,Students usually complete their master's degree in 1-2 years of fulltime study.
+graduate admissions,34,"Once I begin a master's program in SCI, is it possible to change to another program?",,"Yes, students may transfer to a different department or program within SCI. Transfers between departments or programs will be reviewed by the receiving department's admissions committee-including a thorough assessment of the student's academic performance in previous institutions as well as within SCI. Faculty will review the student's original application materials and may require that the student submit supplemental application materials.
+
+Students should note that transfer to a different department or degree is not guaranteed.
+
+For more information, view the SCI Catalog."
+graduate admissions,35,Can I transfer into a master's program from another college or university?,,"You may not simply transfer to a program. You must submit an application and be accepted into the program. If accepted, any graduate coursework that was not counted towards a completed prior graduate degree can be reviewed for transfer into the graduate degree in SCI to which you have applied.  See the Catalog for details."
+test scores,36,How do I determine which is required?,,"GRE: How the Graduate Record Examination (GRE) is used as part of the admissions process varies by program within SCI. Please see individual program requirements (as indexed in the table below) for details. GRE scores are valid for five years.
+
+Required English Testing: If your native language is not English, then you must submit either the Test of English as a Foreign Language (TOEFL), the International English Language Testing System (IELTS) or Duolingo English Test. All non-native English speakers need to submit scores from one of these tests that meets the minimum score required by departments/programs.  Minimum scores are indexed by program in this table. Applicants with scores below the minimum will be ineligible for admission to the intended SCI graduate program, regardless of the academic strength and fit of the rest of the application.
+
+The Duolingo English Test is an online English proficiency test that can be taken online, on demand, in under an hour. The test is taken online via a computer with a webcam and microphone. The test includes a proficiency score, video interview, and writing sample. Certified results are available within 48 hours of the test session, and test results are considered an acceptable alternative to TOEFL or IELTS by the School of Computing and Information."
+test scores,37,How do I provide my test scores to SCI?,,"All test scores (TOEFL/IELTS/Duolingo English Test and/or GRE/GMAT) must be uploaded (as a full page PDF) to your application. If the scores are not uploaded by the time you apply, you will have to send test results in PDF format to our admissions team at sciadmit@pitt.edu and your application will not be considered complete until you send test scores to the school. 
+
+You should request the test agencies to send us official scores when you apply. Electronic TOEFL and GRE scores must be submitted by ETS, Duolingo English Test score must be submitted by Duolingo, and printed official report of IELTS and GMAT should be sent to the School of Computing and Information. Failure to submit your official scores will result in an inability to register for classes in your first semester."
+test scores,38,GRE Codes,,Institution code: 2927          CS code: 0407          IS code: 0404          LIS code: 4701          Other code: 5199
+test scores,39,TOEFL Codes,,Institution code: 2927          CS code: 78          LIS code: 90          Other code: 99
+test scores,40,Which programs require the GRE?,,GRE requirement per program can be found by https://www.sci.pitt.edu/sites/default/files/PDFs/standardized_test_grid_121420.pdf.
+test scores,41,What are the minimum TOEFL scored required by program?,,The minimum TOEFL scores required by program can be https://www.sci.pitt.edu/sites/default/files/PDFs/toefl_scores_grid_121420.pdf
+test scores,42,"My undergraduate degree is from an institution in the U.S. Do I still need to submit a TOEFL score? Or my undergraduate degree is from a foreign institution. However, I have received a master's degree from an institution in the U.S. Do I still need to submit a TOEFL score?",,"If you are currently working on or have received a bachelor's or master's degree in the U.S. and your native language is not English, the TOEFL may be waived by program. See detailed information by department/program:
+
+Department of Computer Science: If applicant has/will have a bachelor's or master's degree from the U.S. or another country where English is the official language, the TOEFL (or IELTS/ Duolingo English Test) will be waived.
+Intelligent Systems Program: If applicant has/will have a bachelor's or master's degree from the U.S. or another country where English is the official language, the TOEFL (or IELTS/ Duolingo English Test) will be waived.
+Department of Informatics and Networked Systems: If applicant has/will have a bachelor's or master's degree completed entirely in the U.S. or another country where English is the official language, the TOEFL (or IELTS/ Duolingo English Test) will be waived.
+Department of Information Culture and Data Stewardship: If applicant has/will have a bachelor's or master's degree completed entirely in the U.S. or another country where English is the official language, the TOEFL (or IELTS/ Duolingo English Test) will be waived."
+test scores,43,My undergraduate degree or master's degree is from a foreign institution. May I submit an expired TOEFL?,,You need to submit a TOEFL no more than two years old. We will NOT accept an expired score. No exceptions.
+test scores,44,Do you accept IELTS?,,"Yes, we will accept the IELTS. Your official score report should be uploaded to your application as well as sending an official report to us."
+test scores,45,Do you accept Duolingo English Test?,,"Yes, we will accept the Duolingo English Test. Your official score report should be uploaded to your application as well as sending an official report to us."
+test scores,46,"I plan to take the Tests in either November or December. However, the score will not be reported until after the final deadline. What should I do?",,"We suggest that you plan to take all required tests before December. Since the score report for December tests will not arrive until January and our Admissions Committees usually start their review process in early January, it may cause a delay in the review of your application."
+test scores,47,What scores should I enter if I have taken the GRE test more than once?,,Enter the scores from your most recent test. All scores will appear on the official score report for the committee to review.
+education,48,I am in a five-year program and will be awarded a master's degree. Do I enter this in the Undergraduate or Graduate section of Colleges or Universities?,,This information should be entered in both sections.
+education,49,I have a three-year undergraduate degree from an institution outside of the U.S. Am I eligible for admission to your master's programs? ,,"It is recommended that you submit an external review of your transcript from this degree from an international transcript evaluation service—please note that cost of this is the responsibility of the applicant. If the evaluation states that your degree is not the equivalent of a four-year undergraduate degree in the U.S. but you are still interested in our graduate programs, please contact sciadmit@pitt.eduto request further study recommendations to reach eligibility for our degrees."
+education,50,What format do I use to enter my GPA and College or University Point System?,,"Enter your GPA exactly as given by your College/University, e.g. 3.5, 4.9, 9.6, etc. In the box to right indicate the Point System that your College/University uses, e.g. 4.0, 5.0, 10.0, etc."
+education,51,Should I send transcripts when I apply?,,"We will need you to upload official copies of transcripts (see upload instructions for details) from all of your prior academic studies, regardless of whether or not a degree was conferred."
+education,52,When do I send my official transcripts?,,"If you are admitted to SCI and accept your offer of admission, you will then be required to submit an official (paper or electronic) copy of all your transcript(s) issued by the institution(s).
+
+If these degrees were obtained in the U.S., then you will need to request that an official transcript be sent to us directly from the institution (typically these are issued by your university Registrar's Office).
+If your degrees were obtained from other countries that only issue one formal copy or only issue transcripts to you directly, then you will need to bring the originals with you to campus so we can verify the original transcripts and make our own copies on-site."
+education,53,What if my fall semester grades are not on my transcript by the final deadline?,,"We do not require that you upload a copy of your fall semester grades. If you are admitted, you will be required to send us a final transcript."
+education,54,Where do I mail my transcripts?,,"No paper copies of your transcript are necessary at the time you apply. You only need to upload a PDF transcript from each college or university attended, whether or not you received a degree. If you upload a transcript from a foreign country, you must include an English translation. Note: this must be a copy of an official transcript from the university. (Uploading a personally made PDF of your courses and grades will NOT be accepted.)
+
+If you cannot upload transcript due to technical glitch, you may send your official transcripts to:
+
+SCI Record Office
+Information Sciences Building, Fifth Floor
+University of Pittsburgh
+School of Computing and Information
+135 North Bellefield Avenue
+Pittsburgh, PA, 15260"
+education,55,Do I have to submit an International Transcript Evaluation?,,"All degrees obtained outside of the U.S. will be evaluated for equivalency to U.S. educational standards by the School of Computing and Information/University of Pittsburgh. Therefore, all international applicants must provide an official English-language translation of all pertinent transcripts. In a small number of cases, the Admissions Committee may be unfamiliar with the university from which you graduated. In such cases, the committee reserves the right to request an external review of your transcript, the cost of which is the responsibility of the applicant."
+research,56,Any research opportunities at Pitt?,,"To look for research opportunities and field of researches, check the link below:
+https://www.cs.pitt.edu/research"
+about virtual kathy,57,What is your name?,,"I'm Kathy aka Virtual Kathy the Chatbot for CS department, shoutout to the real Kathy!"
+about virtual kathy,58,Who made you?,,I was developed by four undergrad CS students in 2021!
+about virtual kathy,59,How old are you?,,"I am 1 years old! I was developed by four undergrad CS students as a CAPSTONE project in spring 2021!"""

@@ -1,0 +1,44 @@
+{% extends 'bootstrap/base.html' %}
+
+{% block styles %}
+{{ super() }}
+	<style>
+		body { background: #e8f1f9; }
+	</style>
+{% endblock %}
+
+{% block title %}
+Virtual Kathy Chatbot
+{% endblock %}
+
+
+{% block content %}
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-8">
+
+      <!-- note, the id is not used in the template -->
+    <h1 class="pt-10 pb-2">~</h1>
+	  <h2 class="pt-10 pb-2">Virtual Kathy Chatbot</h2>
+    <p class="lead">Capstone Project Spring 2021</p>
+
+
+    <p class="pt-2"><strong>{{ message }}</strong></p>
+    <p class="pt-5"><strong>{{ message }}</strong></p>
+    <p class="pt-5"><strong>{{ message }}</strong></p>
+
+	<h4 class="pt-0 pb-1"><a href="{{ url_for('vk') }}">>>>Start Chatting!<<<</a></h4>
+    <p class="pt-5"><strong>{{ message }}</strong></p>
+    <p class="pt-5"><strong>{{ message }}</strong></p>
+
+
+    <p>Created with &#128156 By George Liu, Pan Liu, Sophia Lin and Feiya Yu</p>
+    <p class="pt-5"><strong>{{ message }}</strong></p>
+    <p class="pt-5"><strong>{{ message }}</strong></p>
+    <p class="pt-5"><strong>{{ message }}</strong></p>
+    </div>
+  </div>
+</div>
+
+{% endblock %}

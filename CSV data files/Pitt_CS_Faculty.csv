@@ -1,0 +1,36 @@
+﻿id,full_name,first_name,last_name,email,phone_number,position,profile
+1,wonsun ahn,Wonsun,Ahn,wahn@pitt.edu,412-624-8419,Teaching Assistant Professor,https://www.cs.pitt.edu/people/full-time-faculty/wonsun-ahn
+2,malihe alikhani,Malihe,Alikhani,malihe@pitt.edu,(412) 624-8490,Assistant Professor,https://www.cs.pitt.edu/people/full-time-faculty/malihe-alikhani
+3,amy babay,Amy,Babay,babay@pitt.edubabay@pitt.edu,(412) 624-8490,"Assistant Professor, DINS & CS",https://www.cs.pitt.edu/people/full-time-faculty/amy-babay
+4,jacob biehl,Jacob,Biehl,biehl@pitt.edu,(412) 624-9315,"Associate Professor, ICDS & CS",https://www.cs.pitt.edu/people/full-time-faculty/jacob-biehl
+5,arjun chandraesekhar,Arjun,Chandraesekhar,arjunc@pitt.edu,(412) 624-8490,Teaching Assistant Professor,https://www.cs.pitt.edu/people/full-time-faculty/arjun-chandraesekhar
+6,shikuo chang,ShiKuo,Chang,chang@cs.pitt.edu,(412) 624-8423,Professor,https://www.cs.pitt.edu/people/full-time-faculty/shi-kuo-chang
+7,bruce  childers,Bruce ,Childers,childers@cs.pitt.edu,(412) 624-8421,"Professor and Interim Dean, SCI",https://www.cs.pitt.edu/people/full-time-faculty/bruce-childers
+8,panos chrysanthis,Panos,Chrysanthis,panos@cs.pitt.edu,(412) 624-8924,Professor,https://www.cs.pitt.edu/people/full-time-faculty/panos-chrysanthis
+9,paul cohen,Paul,Cohen,prcohen@pitt.edu,(412) 382-3498,"Professor and Director, MOMACS",https://www.cs.pitt.edu/people/full-time-faculty/paul-cohen
+10,constantinos costa,Constantinos,Costa,costa.c@cs.pitt.edu,(412) 624-8490,Visiting Lecturer,https://www.cs.pitt.edu/people/full-time-faculty/constantinos-costa
+11,nicholas farnan,Nicholas,Farnan,NLF4@pitt.edu,(412) 624-8401,Lecturer II,https://www.cs.pitt.edu/people/full-time-faculty/nicholas-farnan
+12,william garrison,William,Garrison,bill@cs.pitt.edu,(412) 624-9183,"Lecturer and Assistant Dean for Academic Programs, SCI",https://www.cs.pitt.edu/people/full-time-faculty/william-garrison
+13,milos hauskrecht,Milos,Hauskrecht,milos@cs.pitt.edu,(412) 624-8845,Professor,https://www.cs.pitt.edu/people/full-time-faculty/milos-hauskrecht
+14,timothy hoffman,Timothy,Hoffman,hoffmant@cs.pitt.edu,(412) 624-8490,Lecturer,https://www.cs.pitt.edu/people/full-time-faculty/timothy-hoffman
+15,rebecca hwa,Rebecca,Hwa,hwa@cs.pitt.edu,(412) 624-7953,Professor,https://www.cs.pitt.edu/people/full-time-faculty/rebecca-hwa
+16,seongjae hwang,SeongJae,Hwang,SJH95@pitt.edu,(412) 624-8490,Assistant Professor,https://www.cs.pitt.edu/people/full-time-faculty/seong-jae-hwang
+17,xiaowei jia,Xiaowei,Jia,xiaowei@pitt.edu,(412) 624-8490,Assistant Professor,https://www.cs.pitt.edu/people/full-time-faculty/xiaowei-jia
+18,sherif khattab,Sherif,Khattab,skhattab@cs.pitt.edu,(412) 624-8438,Lecturer,https://www.cs.pitt.edu/people/full-time-faculty/sherif-khattab
+19,thumtongsak kosiyatrkul,Thumtongsak,Kosiyatrkul,tkosiyat@cs.pitt.edu,(412) 624-8424,Lecturer II,https://www.cs.pitt.edu/people/full-time-faculty/thumtongsak-kosiyatrkul
+20,adriana kovashka,Adriana,Kovashka,kovashka@cs.pitt.edu,(412) 624-8852,Assistant Professor,https://www.cs.pitt.edu/people/full-time-faculty/adriana-kovashka
+21,william laboon,William,Laboon,laboon@cs.pitt.edu,(412) 624-8851,Lecturer (on leave),https://www.cs.pitt.edu/people/full-time-faculty/william-laboon
+22,alexandros labrinidis,Alexandros,Labrinidis,labrinid@cs.pitt.edu,412-624-8493,Professor and Chair,https://www.cs.pitt.edu/people/full-time-faculty/alexandros-labrinidis
+23,john lange,John,Lange,jacklange@cs.pitt.edu,(412) 648-0168,Associate Professor,https://www.cs.pitt.edu/people/full-time-faculty/john-lange
+24,adam lee,Adam,Lee,adamlee@cs.pitt.edu,(412) 624-8416,"Professor and Associate Dean for Academic Programs, SCI",https://www.cs.pitt.edu/people/full-time-faculty/adam-lee
+25,stephen lee,Stephen,Lee,STL86@pitt.edu,(412) 624-8490,Assistant Professor,https://www.cs.pitt.edu/people/full-time-faculty/stephen-lee
+26,diane litman,Diane,Litman,litman@cs.pitt.edu,(412) 624-8838,"Professor and Senior Scientist, LRDC",https://www.cs.pitt.edu/people/full-time-faculty/diane-litman
+27,daniel mosse,Daniel,Mosse,mosse@cs.pitt.edu,(412) 624-8923,Professor,https://www.cs.pitt.edu/people/full-time-faculty/daniel-mosse
+28,luis oliveira,Luis,Oliveira,loliveira@pitt.edu,(412) 624-8490,Teaching Assistant Professor,https://www.cs.pitt.edu/people/full-time-faculty/luis-oliveira
+29,vinicius petrucci,Vinicius,Petrucci,vpetrucci@pitt.edu,(412) 624-8418,Lecturer,https://www.cs.pitt.edu/people/full-time-faculty/vinicius-petrucci
+30,kirk pruhs,Kirk,Pruhs,kirk@cs.pitt.edu,(412) 624-8844,Professor,https://www.cs.pitt.edu/people/full-time-faculty/kirk-pruhs
+31,john ramirez,John,Ramirez,ramirez@cs.pitt.edu,(412) 624-8441,Senior Lecturer,https://www.cs.pitt.edu/people/full-time-faculty/john-ramirez
+32,rob rutenbar,Rob,Rutenbar,pittsvcr@pitt.edu,(412) 624-9019,Professor and Senior Vice Chancellor for Research,https://www.cs.pitt.edu/people/full-time-faculty/rob-rutenbar
+33,xulong  tang,Xulong ,Tang,TAX6@pitt.edu,(412) 624-8852,Assistant Professor,https://www.cs.pitt.edu/people/full-time-faculty/xulong-tang
+34,erin walker,Erin,Walker,eawalker@pitt.edu,(412) 624-9590,"Associate Professor and Research Scientist, LRDC",https://www.cs.pitt.edu/people/full-time-faculty/erin-walker
+35,youtao zhang,Youtao,Zhang,zhangyt@cs.pitt.edu,(412) 624-8837,Professor,https://www.cs.pitt.edu/people/full-time-faculty/youtao-zhang

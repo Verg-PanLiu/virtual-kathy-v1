@@ -1,0 +1,53 @@
+ VIRTUAL KATHY (Feb 10, 2021)
+---------------
+
+"Yu, Feiya" <FEY20@pitt.edu>, 
+"Liu, Pan" <PAL81@pitt.edu>, 
+"Liu, George" <georgeliu@pitt.edu>, 
+"Lin, Sophia" <SJL81@pitt.edu>
+
+---------------
+
+Virtual Kathy: A conversational agent for the CS Department.
+This project will create a conversational agent (chatbot) to handle questions submitted to the CS department front office (e.g., where can I find Dr. X, do I need TOEFL for graduate studies, what is the admission process for the BS degree, is Y course offered, who do I contact for advice, etc). The project entails:
+- creating training questions (by crowdsourcing them), 
+- creating matching answers (some static / some through a database),
+- setting up the conversational agent, 
+- supporting "context" (i.e., follow-up questions), 
+- routing non-answerable questions to humans,
+- testing the chatbot, and
+- submitting the new questions and answers to step one to improve the system.
+
+The capstone project will benefit from experience with NLP/chatbots/databases, but not required (i.e., you will need to pick it up).
+Target group size = 4-5 students
+
+---------------
+
+NLP = black box
+deployment = website chatbox or fb msg or twitter msg
+
+[TODO/Alex: share github of old projects]
+[TODO/github ids] virtual-kathy-v1
+
+
+GITHUB:
+Lin, Sophia to Everyone (7:33 PM)
+sphjlin
+Liu, George to Everyone (7:33 PM)
+george-q-liu
+Yu, Feiya to Everyone (7:33 PM)
+Feiya Yu : 8gai
+Liu, Pan to Everyone (7:33 PM)
+verg-panliu
+
+* when question is routed, have a way to provide answer back to system
+* feedback if answer was good or not
+
+
+
+
+
+
+
+
+

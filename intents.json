@@ -1,0 +1,168 @@
+{"intents": [
+        {"tag": "unknown questions",
+         "patterns": [""],
+         "responses": ["I'm sorry, I don't seem to understand your question. Choose a topic by entering 'category:CATEGORY_NAME' to find answers to the most frequently asked questions about CS department at Pitt.\n\tAbout Pitt CS\n\tAbout Virtual Kathy\n\tCampus Life\n\tEducation\n\tGeneral Admissions\n\tGraduate Admissions\n\tUndergraduate Admissions\n\tTest Scores\n\tResearch"],
+         "context_set": "unknown"
+        },
+        {"tag": "question category",
+         "patterns": ["category:","category"],
+         "responses": ["Choose a question by entering 'number: QUESTION_ID' to find the answer. "],
+         "context_filter": "unknown"
+        },
+        {"tag": "questions",
+         "patterns": ["number: ","number"],
+         "responses": ["If you don't find the answer to your question here, please contact us by sending email to sciadmit@pitt.edu or calling on 412-624-5015. If you would like to add the question and answer into our system, please enter 'add questions'."],
+         "context_filter": "unknown"
+        },
+        {"tag": "greeting",
+         "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up"],
+         "responses": ["Hello!", "Good to see you again!", "Hi there, how can I help?"],
+         "context_set": ""
+        },
+        {"tag": "goodbye",
+         "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day", "thank you", "thanks for the info","bye"],
+         "responses": ["Thank you for visiting us. How did i do, please leave a review/rating"],
+         "context_set": "rating"
+        },
+        {"tag": "positive",
+         "patterns": ["you are awesome", "good", "excellent!", "you are really helpful", "good job", "nice work", "great!"],
+         "responses": ["We can not thank you enough for the kind words about virtual Kathy. Your review means a lot to us and lets us know we are on the right track!"],
+         "context_filter": "rating"
+        },
+        {"tag": "negative",
+         "patterns": ["really bad", "not helpful at all", "you really suck", "don't wanna use anymore", "terrible experience", "trash", "bad", "awful", "terrible"],
+         "responses": ["Thank you for your review. I'm sorry to hear you had such a frustrating experience, but I really appreciate you bringing this issue to our attention. We will strive to do better."],
+         "context_filter": "rating"
+        },
+        {"tag": "age",
+         "patterns": ["how old", "how old is tim", "what is your age", "how old are you", "age?"],
+         "responses": ["I am 1 years old! I was developed by four undergrad CS students as a CAPSTONE project in spring 2021!"],
+         "context_set": ""
+        },
+        {"tag": "name",
+         "patterns": ["name", "what is your name", "what should I call you", "whats your name?", "who are you"],
+         "responses": ["I'm Kathy aka Virtual Kathy the Chatbot for CS department, shoutout to the real Kathy!"],
+         "context_set": ""
+        },
+        {"tag": "author",
+         "patterns": ["author", "who made you?", "Who is the projcet manager?"],
+         "responses": ["I was developed by four undergrad CS students in 2021!"],
+         "context_set": ""
+        },
+        {"tag": "shop",
+         "patterns": ["shop", "Id like to buy something", "How can I buy Pitt products?", "How can I buy stuff?", "Where to buy things?", "shoping info", "buy stuff", "gifts", "souvenir", "purchase"],
+         "responses": ["You can buy things at the University store on Fifth, it provides textbooks, clothes, and gifts. If you want to learn more about online shopping at the University store on Fifth, check the link below:\nhttp://www.pittuniversitystore.com/home"],
+         "context_set": ""
+        },
+        {"tag": "hours",
+         "patterns": ["when are you guys open", "what are your hours", "hours of operation","operating hours" ,"opening hours"],
+         "responses": ["The CS department is open:\nMonday: 9AM to 5PM\nTuesday: 9AM to 5PM\nWednesday: 9AM to 5PM\nThursday: 9AM to 5PM\nFriday: 9AM to 5PM\nSaturday: Closed\nSunday: Closed"],
+         "context_set": ""
+        },
+        {"tag": "research",
+         "patterns": ["research", "research opportunities", "can I do researches", "apply for researches", "could i get info on research", "participate in research"],
+         "responses": ["To look for research opportunities and field of researches, check the link below:\nhttps://www.cs.pitt.edu/research"],
+         "context_set": ""
+        },
+        {"tag": "events",
+         "patterns": ["recent events", "events", "any events in the near future", "upcoming events"],
+         "responses": ["Click the link https://calendar.pitt.edu/department/department_of_computer_science to find out more about our events or contact a faculty"],
+         "context_set": ""
+        },
+        {"tag": "News",
+         "patterns": ["recent news", "any news about the department", " latest news", "news"],
+         "responses": ["Here is a list of latest news, click https://www.cs.pitt.edu/news to find out more!"],
+         "context_set": ""
+        },
+        {"tag": "degree",
+         "patterns": ["degree", "degree in computer science", "BS in CS", "degree options", "degree programs", "undergrad", "graduate", "PhD"],
+         "responses": ["To learn more about our undergraduate program, please check this link:\nhttps://www.cs.pitt.edu/current-students"],
+         "context_set": ""
+        },
+        {"tag": "graduation",
+         "patterns": ["graduation", "graduation requirements", "how many credits do i need", "undergrad graduation", "how many more credits do i need to graduate"],
+         "responses": ["Check these links to see graduation requirements:\nBS in Computer Science: https://www.cs.pitt.edu/current-students/bs-computer-science/degree-requirements \nMinor in Computer Science: https://www.cs.pitt.edu/current-students/computer-science-minor \nBS in Computational Biology: https://www.cs.pitt.edu/current-students/bs-computational-biology/degree-requirements \nBS+MS in Computer Science: https://www.cs.pitt.edu/current-students/bsms-computer-science \nMS in Computer Science: https://www.cs.pitt.edu/current-students/ms-computer-science/degree-requirements \nPhD in Computer Science: https://www.cs.pitt.edu/current-students/phd-computer-science/degree-requirements"],
+         "context_set": ""
+        },
+        {"tag": "About",
+         "patterns": ["history", "tell me something about the CS department", "I am new to the CS department"],
+         "responses": ["I am glad you are interested in the CS department! Here is a web page about us: https://www.cs.pitt.edu. You can also check out this web page to know more about Pitt CS department history: https://www.cs.pitt.edu/about/history"],
+         "context_set": ""
+        },
+        {"tag": "clubs",
+         "patterns": ["club", "student clubs", " department clubs", "CS clubs"],
+         "responses": ["In the CS department, there are multiple student clubs. Here is the list of students clubs we have: https://www.cs.pitt.edu/community/student-clubs"],
+         "context_set": ""
+        },
+        {"tag": "minor",
+         "patterns": ["minor in CS", "minors", "minor in other areas"],
+         "responses": ["If you are interested in a minor in CS, please read the requirement in this link: https://www.cs.pitt.edu/current-students/computer-science-minor If you have any further questions, feel free to contact a advising staff."],
+         "context_set": ""
+        },
+        {"tag": "Advising information",
+         "patterns": ["advising info", "undergraduate advising", " graduate advising", "academic advising", "advisor"],
+         "responses": ["For undergraduate advising, please check: https://www.cs.pitt.edu/current-students/advising-information/undergraduate-advising. Also feel free to contact a staff member to learn more"],
+         "context_set": ""
+        },
+        {"tag": "Application",
+         "patterns": ["apply", "how do I apply", " apply for CS major", "declare major", "application form", "application requirements", "GRE", "TOEFL", "English test", "SAT", "application deadline"],
+         "responses": ["To apply for our CS degree, check the following information:\nFor Undergraduate applicants: https://www.cs.pitt.edu/future-students/undergraduate \nFor graduate applicants: https://www.cs.pitt.edu/future-students/graduate \nYou can also learn more from one of our staff member for more information."],
+         "context_set": ""
+        },
+        {"tag": "Panther Card Photo",
+         "patterns": ["Where to submit panther card photo", "Where to upload panther card photo"],
+         "responses": ["Your photo can be uploaded via https://apps.fis.pitt.edu/pcidphotos/."],
+         "context_set": ""
+        },
+        {"tag": "Other Pickip ID",
+         "patterns": ["Can someone else pick up my ID for me?", "Can others pick up my ID for me? "],
+         "responses": ["No. Only YOU can pick up your Panther Card."],
+         "context_set": ""
+        },
+        {"tag": "course",
+         "patterns": ["course info", "course information", "cs courses", "Can you provide me with details of cs courses at Pitt?","I want to know more about cs courses at pitt"],
+         "responses": ["Which course do you want to know? Please enter the course number in which you are interested in the format of 'CS 401' or 'cs 449'."],
+         "context_set": "course_info"
+        },
+        {"tag": "Pitt_CS_Courses",
+         "patterns": ["cs","CS"],
+         "responses": [""],
+         "context_filter": "course_info"
+        },
+        {"tag": "faculty",
+         "patterns": ["professor", "faculty","faculty info", "professor information", "faculty at CS department","I want to know more about professors at CS department", "contact info about professors"],
+         "responses": ["Please enter the name of faculty who you want to know. Please enter the full name in the format of 'full name:XXX XXX'."],
+         "context_set": "faculty_info"
+        },
+        {"tag": "Pitt_CS_Faculty",
+         "patterns": ["full name:","Full name:","Full Name:"],
+         "responses": [""],
+         "context_filter": "faculty_info"
+        },
+        {"tag": "schedule",
+         "patterns": ["schedule","course schedule", "class schedule", "I want to know the course schedule of this semester"],
+         "responses": ["Which course do you want to know? Please enter the course number in the format of : 'schedule:CS 401' or 'schedule:cs 449'."],
+         "context_set": "course_schedule"
+        },
+        {"tag": "Courses_Schedule",
+         "patterns": ["schedule:","schedule:CS","schedule: ","schedule: cs"],
+         "responses": [""],
+         "context_filter": "course_schedule"
+        },
+        {"tag": "add",
+         "patterns": ["add questions"],
+         "responses": ["Please enter your questions in the format of: 'question:(your questions)'."],
+         "context_set": "add_questions"
+        },
+        {"tag": "Add_Questions",
+         "patterns": ["question:","Question:","questions: ","Questions: "],
+         "responses": ["Thank you for your question! If you also want to add the answer to this question, please enter your answer in the format of: 'answer:(your answer to the question)'."],
+         "context_filter": "add_questions"
+        },
+        {"tag": "Add_Answers",
+         "patterns": ["answer:","Answer:","answers: "],
+         "responses": ["Thank you very much for your question and answer!"],
+         "context_filter": "add_questions"
+        }
+]
+}

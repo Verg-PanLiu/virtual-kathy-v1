@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/georgeliu/Desktop/cs1699_flask-main/model.tflearn"
+all_model_checkpoint_paths: "/Users/georgeliu/Desktop/cs1699_flask-main/model.tflearn"
